@@ -1,1 +1,2 @@
-This is a leetcode repo,hello World.
+This is sample leetcode repo,hello world
+
